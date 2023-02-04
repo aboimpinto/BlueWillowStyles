@@ -1,10 +1,10 @@
-* Artist: https://docs.google.com/spreadsheets/u/1/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE/htmlview#
-* Styles: https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
+* Artists Guide : https://docs.google.com/spreadsheets/u/1/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE/htmlview#
+* Styles Guide  : https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
 
 PROMPT: 
 * 9 years old girl portrait, #action# #artist#, --ar 2:3 --seed 123
-* middle age beautiful women portrait, #action# #artist#, --ar 2:3 --seed 123
-* middle age beautiful men portrait, #action# #artist#, --ar 2:3 --seed 123
+* middle age beautiful woman portrait, #action# #artist#, --ar 2:3 --seed 123
+* middle age beautiful man portrait, #action# #artist#, --ar 2:3 --seed 123
 
 | Artist | draw by | paint by | sketch by | draw by | paint by | sketch by | draw by | paint by | sketch by |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,3 +13,4 @@ PROMPT:
 | Rolf Armstrong | <img src="./Assets/Caracters/DrawBy/Child/RolfArmstrong.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Child/RolfArmstrong.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Child/RolfArmstrong.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Woman/RolfArmstrong.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Woman/RolfArmstrong.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Woman/RolfArmstrong.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Man/RolfArmstrong.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Man/RolfArmstrong.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Man/RolfArmstrong.jpg" width="100"> |
 | Salomon van Abbé | <img src="./Assets/Caracters/DrawBy/Child/SalomonVanAbbe.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Child/SalomonVanAbbe.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Child/SalomonVanAbbe.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Woman/SalomonVanAbbe.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Woman/SalomonVanAbbe.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Woman/SalomonVanAbbe.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Man/SalomonVanAbbe.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Man/SalomonVanAbbe.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Man/SalomonVanAbbe.jpg" width="100"> |
 | Tom Bagshaw | <img src="./Assets/Caracters/DrawBy/Child/TomBagshaw.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Child/TomBagshaw.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Child/TomBagshaw.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Woman/TomBagshaw.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Woman/TomBagshaw.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Woman/TomBagshaw.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Man/TomBagshaw.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Man/TomBagshaw.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Man/TomBagshaw.jpg" width="100"> |
+| Karol Bak| <img src="./Assets/Caracters/DrawBy/Child/KarolBak.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Child/KarolBak.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Child/KarolBak.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Woman/KarolBak.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Woman/KarolBak.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Woman/KarolBak.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Man/KarolBak.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Man/KarolBak.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Man/KarolBak.jpg" width="100"> |
