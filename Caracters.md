@@ -1,6 +1,3 @@
-* Artists Guide : https://docs.google.com/spreadsheets/u/1/d/1h6H2CqjLdZMbLjlz6EHwemfO4fkIzAfWtjRAMSa2KHE/htmlview#
-* Styles Guide  : https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
-
 PROMPT: 
 * 9 years old girl portrait, #action# #artist#, --ar 2:3 
 * middle age beautiful woman portrait, #action# #artist#, --ar 2:3
