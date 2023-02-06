@@ -5,4 +5,4 @@ PROMPT:
 
 | Artist | Illustrated by | Illustrated by | Illustrated by | 
 | --- | --- | --- | --- |
-| Dan Mumford | <img src="./Assets/Illustrations/Child/DanMumford.jpg" width="100"> | <img src="./Assets/Illustrations/Woman/DanMumford.jpg" width="100"> | 
+| Dan Mumford | <img src="./Assets/Illustrations/Child/DanMumford.jpg" width="100"> | <img src="./Assets/Illustrations/Woman/DanMumford.jpg" width="100"> | <img src="./Assets/Illustrations/Man/DanMumford.jpg" width="100"> |
