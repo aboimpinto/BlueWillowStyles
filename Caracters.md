@@ -8,6 +8,7 @@ PROMPT:
 | Aubrey Beardsley | <img src="./Assets/Caracters/AubreyBeardsley/Child.jpg" width="100"> | <img src="./Assets/Caracters/AubreyBeardsley/Woman.jpg" width="100"> | <img src="./Assets/Caracters/AubreyBeardsley/Man.jpg" width="100"> |
 | Cicely Mary Barker | <img src="./Assets/Caracters/CicelyMaryBarker/Child.jpg" width="100"> | <img src="./Assets/Caracters/CicelyMaryBarker/Woman.jpg" width="100"> | <img src="./Assets/Caracters/CicelyMaryBarker/Man.jpg" width="100"> |
 | Esao Andrews | <img src="./Assets/Caracters/EsaoAndrews/Child.jpg" width="100"> | <img src="./Assets/Caracters/EsaoAndrews/Woman.jpg" width="100"> | <img src="./Assets/Caracters/EsaoAndrews/Man.jpg" width="100"> |
+| Ingrid Baars | <img src="./Assets/Caracters/IngridBaars/Child.jpg" width="100"> | <img src="./Assets/Caracters/IngridBaars/Woman.jpg" width="100"> | <img src="./Assets/Caracters/IngridBaars/Man.jpg" width="100"> |
 | Julie Bell | <img src="./Assets/Caracters/JulieBell/Child.jpg" width="100"> | <img src="./Assets/Caracters/JulieBell/Woman.jpg" width="100"> | <img src="./Assets/Caracters/JulieBell/Man.jpg" width="100"> |
 | Karol Bak | <img src="./Assets/Caracters/KarolBak/Child.jpg" width="100"> | <img src="./Assets/Caracters/KarolBak/Woman.jpg" width="100"> | <img src="./Assets/Caracters/KarolBak/Man.jpg" width="100"> |
 | Lois van Baarle | <img src="./Assets/Caracters/LoisVanBaarle/Child.jpg" width="100"> | <img src="./Assets/Caracters/LoisVanBaarle/Woman.jpg" width="100"> | <img src="./Assets/Caracters/LoisVanBaarle/Man.jpg" width="100"> |
