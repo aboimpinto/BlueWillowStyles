@@ -16,12 +16,7 @@ PROMPT:
 | Simon Bisley | <img src="./Assets/Caracters/SimonBisley/Child.jpg" width="100"> | <img src="./Assets/Caracters/SimonBisley/Woman.jpg" width="100"> | <img src="./Assets/Caracters/SimonBisley/Man.jpg" width="100"> |
 | Tom Bagshaw | <img src="./Assets/Caracters/TomBagshaw/Child.jpg" width="100"> | <img src="./Assets/Caracters/TomBagshaw/Woman.jpg" width="100"> | <img src="./Assets/Caracters/TomBagshaw/Man.jpg" width="100"> |
 | William Blake | <img src="./Assets/Caracters/WilliamBlake/Child.jpg" width="100"> | <img src="./Assets/Caracters/WilliamBlake/Woman.jpg" width="100"> | <img src="./Assets/Caracters/WilliamBlake/Man.jpg" width="100"> |
-
----
-
-| Artist | draw by | paint by | sketch by | draw by | paint by | sketch by | draw by | paint by | sketch by |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Zdzisław Beksiński | <img src="./Assets/Caracters/DrawBy/Child/ZdzislawBeksinski.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Child/ZdzislawBeksinski.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Child/ZdzislawBeksinski.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Woman/ZdzislawBeksinski.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Woman/ZdzislawBeksinski.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Woman/ZdzislawBeksinski.jpg" width="100"> | <img src="./Assets/Caracters/DrawBy/Man/ZdzislawBeksinski.jpg" width="100"> | <img src="./Assets/Caracters/PaintBy/Man/ZdzislawBeksinski.jpg" width="100"> | <img src="./Assets/Caracters/SketchBy/Man/ZdzislawBeksinski.jpg" width="100"> |
+| Zdzisław Beksiński | <img src="./Assets/Caracters/ZdzislawBeksinski/Child.jpg" width="100"> | <img src="./Assets/Caracters/ZdzislawBeksinski/Woman.jpg" width="100"> | <img src="./Assets/Caracters/ZdzislawBeksinski/Man.jpg" width="100"> |
 
 ---
 
