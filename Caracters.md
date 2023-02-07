@@ -6,6 +6,7 @@ PROMPT:
 | Artist | Child | Woman | Man |
 | --- | --- | --- | --- |
 | Aubrey Beardsley | <img src="./Assets/Caracters//AubreyBeardsley/Child.jpg" width="100"> | <img src="./Assets/Caracters//AubreyBeardsley/Woman.jpg" width="100"> | <img src="./Assets/Caracters//AubreyBeardsley/Man.jpg" width="100"> |
+| Cicely Mary Barker | <img src="./Assets/Caracters//CicelyMaryBarker/Child.jpg" width="100"> | <img src="./Assets/Caracters//CicelyMaryBarker/Woman.jpg" width="100"> | <img src="./Assets/Caracters//CicelyMaryBarker/Man.jpg" width="100"> |
 
 ---
 
