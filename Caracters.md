@@ -7,6 +7,7 @@ PROMPT:
 | --- | --- | --- | --- |
 | Aubrey Beardsley | <img src="./Assets/Caracters/AubreyBeardsley/Child.jpg" width="100"> | <img src="./Assets/Caracters/AubreyBeardsley/Woman.jpg" width="100"> | <img src="./Assets/Caracters/AubreyBeardsley/Man.jpg" width="100"> |
 | Cicely Mary Barker | <img src="./Assets/Caracters/CicelyMaryBarker/Child.jpg" width="100"> | <img src="./Assets/Caracters/CicelyMaryBarker/Woman.jpg" width="100"> | <img src="./Assets/Caracters/CicelyMaryBarker/Man.jpg" width="100"> |
+| Enoch Bolles | <img src="./Assets/Caracters/EnochBolles/Child.jpg" width="100"> | <img src="./Assets/Caracters/EnochBolles/Woman.jpg" width="100"> | <img src="./Assets/Caracters/EnochBolles/Man.jpg" width="100"> |
 | Esao Andrews | <img src="./Assets/Caracters/EsaoAndrews/Child.jpg" width="100"> | <img src="./Assets/Caracters/EsaoAndrews/Woman.jpg" width="100"> | <img src="./Assets/Caracters/EsaoAndrews/Man.jpg" width="100"> |
 | Ingrid Baars | <img src="./Assets/Caracters/IngridBaars/Child.jpg" width="100"> | <img src="./Assets/Caracters/IngridBaars/Woman.jpg" width="100"> | <img src="./Assets/Caracters/IngridBaars/Man.jpg" width="100"> |
 | Julie Bell | <img src="./Assets/Caracters/JulieBell/Child.jpg" width="100"> | <img src="./Assets/Caracters/JulieBell/Woman.jpg" width="100"> | <img src="./Assets/Caracters/JulieBell/Man.jpg" width="100"> |
