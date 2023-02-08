@@ -17,6 +17,7 @@ PROMPT:
 | Salomon van Abbé | <img src="./Assets/Caracters/SalomonVanAbbe/Child.jpg" width="100"> | <img src="./Assets/Caracters/SalomonVanAbbe/Woman.jpg" width="100"> | <img src="./Assets/Caracters/SalomonVanAbbe/Man.jpg" width="100"> |
 | Simon Bisley | <img src="./Assets/Caracters/SimonBisley/Child.jpg" width="100"> | <img src="./Assets/Caracters/SimonBisley/Woman.jpg" width="100"> | <img src="./Assets/Caracters/SimonBisley/Man.jpg" width="100"> |
 | Tom Bagshaw | <img src="./Assets/Caracters/TomBagshaw/Child.jpg" width="100"> | <img src="./Assets/Caracters/TomBagshaw/Woman.jpg" width="100"> | <img src="./Assets/Caracters/TomBagshaw/Man.jpg" width="100"> |
+| William-Adolphe Bouguereau | <img src="./Assets/Caracters/WilliamAdolpheBouguereau/Child.jpg" width="100"> | <img src="./Assets/Caracters/WilliamAdolpheBouguereau/Woman.jpg" width="100"> | <img src="./Assets/Caracters/WilliamAdolpheBouguereau/Man.jpg" width="100"> |
 | William Blake | <img src="./Assets/Caracters/WilliamBlake/Child.jpg" width="100"> | <img src="./Assets/Caracters/WilliamBlake/Woman.jpg" width="100"> | <img src="./Assets/Caracters/WilliamBlake/Man.jpg" width="100"> |
 | Zdzisław Beksiński | <img src="./Assets/Caracters/ZdzislawBeksinski/Child.jpg" width="100"> | <img src="./Assets/Caracters/ZdzislawBeksinski/Woman.jpg" width="100"> | <img src="./Assets/Caracters/ZdzislawBeksinski/Man.jpg" width="100"> |
 
