@@ -1,5 +1,7 @@
 **Common prompt:** award winning studio photography, professional color grading, soft shadows, no contrast, clean sharp focus
+
 **Woman prompt:** futuristic woman with pink hair and blue eyes, 
+
 **Man prompt:** futuristic man with beanie and black leather jacket
 
 | Photography type | Woman | Man |
