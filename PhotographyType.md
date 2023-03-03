@@ -1,6 +1,6 @@
 **Common prompt:** award winning studio photography, professional color grading, soft shadows, no contrast, clean sharp focus \
 **Woman prompt:** futuristic woman with pink hair and blue eyes, \
-**Man prompt:** futuristic man with beanie and black leather jacket \
+**Man prompt:** futuristic man with beanie and black leather jacket 
 
 | Photography type | Woman | Man |
 | --- | --- | --- |
@@ -12,10 +12,3 @@
 | Magazine photography | <img src="https://user-images.githubusercontent.com/1231687/222824479-088e6a77-416e-4768-ad3c-1a6bb460620a.png" width=100 /> | <img src="https://user-images.githubusercontent.com/1231687/222825536-d74e620b-e613-4702-8404-39196c8b5d2f.png" width=100 /> |
 | Glamour photography | <img src="https://user-images.githubusercontent.com/1231687/222824578-1a33d464-53f4-405d-92ca-40bcccfb6fef.png" width=100 /> | <img src="https://user-images.githubusercontent.com/1231687/222825638-09eb64a1-967d-4c48-af51-7533c8ea2d46.png" width=100 /> |
 | Bokeh photography | <img src="https://user-images.githubusercontent.com/1231687/222824720-135a6d6e-342a-49c4-a904-fda6d5378f16.png" width=100 /> | <img src="https://user-images.githubusercontent.com/1231687/222825784-14dec32c-95da-4cb3-adac-3d4ed41957a3.png" width=100 /> |
-
-
-
-
-
-
-
